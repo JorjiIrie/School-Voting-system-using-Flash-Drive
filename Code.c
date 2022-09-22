@@ -1,13 +1,3 @@
-/*                                           PROJECT 1 (BY PAIR)
-
-INSTRUCTION:  Student Election Voting System using List operations using USB drive as Voting Card (in C/C++)
-Module 1 : Registration
-Module 2:  Voting System
-
-PREPARED BY: JEORGE IREY G. DANS                                                        BSCS-2A-M (STEM)
-             JOHN DENZIL A. DIMAGUILA
-*/
-
 //HEADER FILES
 #include <stdio.h> // standard input and output functions
 #include <stdlib.h> // type conversion, utilities, passing
